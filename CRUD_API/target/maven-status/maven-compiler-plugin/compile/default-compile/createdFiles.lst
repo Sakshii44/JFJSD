@@ -1,0 +1,4 @@
+com\example\CRUD_API\controller\TutorialController.class
+com\example\CRUD_API\CrudApiApplication.class
+com\example\CRUD_API\model\Tutorial.class
+com\example\CRUD_API\repository\TutorialRepository.class
